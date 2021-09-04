@@ -28,7 +28,7 @@ toDo
 
 Parts needed
 -------------------
-* Adafruit Magtag: ([MagTag](https://en.wikipedia.org/wiki/Game_Boy_Advance_SP#/media/File:Nintendo-Game-Boy-Advance-Headphone-Adapter.jpg))
+* Adafruit Magtag: ([MagTag](https://www.adafruit.com/magtag))
 * USB C cable
 
 
@@ -56,7 +56,7 @@ Links/Sources
 -------------------
 * [Creating MagTag Projects](https://learn.adafruit.com/creating-magtag-projects-with-circuitpython)
 * [Farmsense Astral API](https://www.farmsense.net/api/astro-widgets/)
-* [Curtis Clark's Moon Typface](http://www.mockfont.com/old/n)
+* [Curtis Clark's Moon Typface](https://www.fontspace.com/moon-phases-font-f2674)
 
  
 
